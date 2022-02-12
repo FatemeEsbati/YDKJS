@@ -1,2 +1,2 @@
 # YDKJS
-reading YDKJS book series
+reading YDKJS book series.
